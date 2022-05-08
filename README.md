@@ -7,7 +7,7 @@
 ctrl c+v**
 
 
-                                                                      ![](https://github-readme-stats.vercel.app/api?username=QiQiyydss)
+![](https://github-readme-stats.vercel.app/api?username=QiQiyydss)
 
 
 <!---
