@@ -6,7 +6,8 @@
 编程面向GitHub  
 ctrl c+v**  
 **擅长**  
-![C++](https://img.shields.io/badge/cplusplus.svg)
+
+
 
 
 
