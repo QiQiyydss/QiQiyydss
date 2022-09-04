@@ -1,6 +1,8 @@
 **Thank You!!!**
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=QiQiyydss&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=false" />
-**最爱琦琦！**
+
+
+**琦琦最棒！**
 
 **鄙人为在读大学生非单身人士  
 编程面向GitHub  
